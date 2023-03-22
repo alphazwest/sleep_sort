@@ -38,3 +38,5 @@ for thread in threads:
 print(sorted_list)
 [3, 6, 7, 14, 17, 41, 43, 52, 56, 61, 65, 69, 72, 73, 83, 85, 85, 84, 91, 96]
 ```
+
+Now that's a sorting algorithm that makes me feel rested and relaxed!
