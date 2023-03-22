@@ -41,8 +41,7 @@ class Sleeper(Thread):
 
     def run(self) -> None:
         """
-        Implements the abstract method to define this object's behavior when the
-        thread.start() method is called.
+        Defines this object's behavior when the thread.start() method is called.
         """
         # sleeps for a period, in seconds, proportional to 1/100th of the value
         # Note: higher values start causing issues with wait times being too short.
