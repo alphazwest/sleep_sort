@@ -36,6 +36,6 @@ for thread in threads:
 
 # display the resulting sorted items
 print(sorted_list)
-[3, 6, 7, 14, 17, 41, 43, 52, 56, 61, 65, 69, 72, 73, 83, 85, 85, 84, 91, 96]
+[3, 6, 7, 14, 17, 41, 43, 52, 56, 61, 65, 69, 72, 73, 83, 84, 85, 85, 91, 96]
 ```
 **disclaimer**: The models, methods, and general approach seen here are overly complex for the sake of clarity.
