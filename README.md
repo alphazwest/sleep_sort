@@ -1,5 +1,5 @@
 # Sleep Sort
-Are you *tired* of determining the time complexity of sorting algorithms? *Tired* of being asked which sorting algorithm is the best? Are you *tired* of wondering if your favorite programming language implements sorting in the most efficient manner?
+Are you *tired* of determining the time complexity of sorting algorithms? Are you *tired* of being asked which sorting algorithm is the best? Are you *tired* of wondering if your favorite programming language implements sorting in the most efficient manner?
 
 If you answered "yes" to any of these questions then *Sleep Sort* is for you!
 
