@@ -5,7 +5,10 @@ If you answered "yes" to any of these questions then *Sleep Sort* is for you!
 
 ## Example Usage
 
-```python    
+```python  
+import random
+from sleep_sort import Sleeper, ThreadSafeList
+
 # a list of 20 random integers in the range [0, 100]
 nums = [6, 85, 7, 17, 85, 56, 73, 41, 3, 84, 65, 43, 61, 69, 91, 96, 72, 14, 52, 83]
 
