@@ -44,9 +44,9 @@ class Sleeper(Thread):
         Implements the abstract method to define this object's behavior when the
         thread.start() method is called.
         """
-        # sleeps for a period, in seconds, proportional to 1/1000th of the value
-        # the Sleeper was initialized with. i.e. a value of 1 will sleep for 1 ms
-        time.sleep(self.num / 1000)
+        # sleeps for a period, in seconds, proportional to 1/100th of the value
+        # Note: higher values start causing issues with wait times being too short.
+        time.sleep(self.num / 100)
 
         # adds the value to the shared output list
         self.output.append(self.num)
