@@ -41,4 +41,4 @@ print(sorted_list)
 
 Now that's a sorting algorithm that makes me feel rested and relaxed!
 
-**disclaimer**: The models, methods, and general approach seen here are overly verbose for the sake of clarity.
+**disclaimer**: The models, methods, and general approach seen here are overly complex for the sake of clarity.
